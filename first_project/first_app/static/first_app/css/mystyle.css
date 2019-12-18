@@ -1,0 +1,12 @@
+h1{
+  color: red;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black
+    color: blue
+}
+table, th, td{
+  border: 2px solid black;
+
+}
